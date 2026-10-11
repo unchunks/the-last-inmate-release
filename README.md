@@ -14,7 +14,7 @@
 
 | 版 | Windows | Android |
 |---|---|---|
-| v0.4.2 | [TheLastInmate_Phase4_v0.4.2.zip](https://github.com/unchunks/the-last-inmate-release/releases/download/v0.4.2/TheLastInmate_Phase4_v0.4.2.zip) | [TheLastInmate_Phase4_v0.4.2.apk](https://github.com/unchunks/the-last-inmate-release/releases/download/v0.4.2/TheLastInmate_Phase4_v0.4.2.apk) |
+| v0.4.3 | [TheLastInmate_Phase4_v0.4.3.zip](https://github.com/unchunks/the-last-inmate-release/releases/download/v0.4.3/TheLastInmate_Phase4_v0.4.3.zip) | [TheLastInmate_Phase4_v0.4.3.apk](https://github.com/unchunks/the-last-inmate-release/releases/download/v0.4.3/TheLastInmate_Phase4_v0.4.3.apk) |
 
 **ヘッドホンで遊んでください。** 音の方向がわからないと遊べません。暗いゲームなので、部屋を暗くするのがおすすめです。
 
@@ -73,7 +73,7 @@
 
 [Issues](https://github.com/unchunks/the-last-inmate-release/issues) に書いてください。不具合のときは、次のことがわかると助かります。
 
-- 版（ダウンロードしたファイル名の v0.4.2 など）
+- 版（ダウンロードしたファイル名の v0.4.3 など）
 - Windows / Android と、PC・端末の機種
 - 何をしたら、どうなったか
 - Windows で落ちたときは `%USERPROFILE%\AppData\LocalLow\DefaultCompany\the-last-inmate\Player.log`
