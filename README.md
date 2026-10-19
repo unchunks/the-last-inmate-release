@@ -2,11 +2,14 @@
 
 # The Last Inmate（開発中のテスト版）
 
-**光を求め、音に怯える。**
+目の退化した異形たちが、音だけを頼りに獲物を追う地下監獄。
+足音も物音も、すべてが波紋になって闇に広がる。
+その波紋は敵の居場所を教えてくれるが、同時にあなたの居場所を敵に知らせる。
+地上への脱出を目指す、一人称のリアルタイム・ローグライクホラー。
 
-目の退化した異形たちが、音だけを頼りに獲物を追う地下監獄。足音も物音も、すべてが波紋になって闇に広がる。その波紋は敵の居場所を教えてくれるが、同時にあなたの居場所を敵に知らせる。地上への脱出を目指す、一人称のリアルタイム・ローグライクホラー。捕まっても、次の囚人に道具を 1 つだけ遺せる。
-
-開発中のテスト版です。内容は変わります。不具合や感想を [Issues](https://github.com/unchunks/the-last-inmate-release/issues) で教えてもらえると助かります。
+開発中のテスト版です。
+内容は変わる可能性があります。
+不具合や感想を [Issues](https://github.com/unchunks/the-last-inmate-release/issues) で教えてもらえると助かります。
 
 ## ダウンロード
 
@@ -16,12 +19,13 @@
 |---|---|---|
 | v0.4.3 | [TheLastInmate_Phase4_v0.4.3.zip](https://github.com/unchunks/the-last-inmate-release/releases/download/v0.4.3/TheLastInmate_Phase4_v0.4.3.zip) | [TheLastInmate_Phase4_v0.4.3.apk](https://github.com/unchunks/the-last-inmate-release/releases/download/v0.4.3/TheLastInmate_Phase4_v0.4.3.apk) |
 
-**ヘッドホンで遊んでください。** 音の方向がわからないと遊べません。暗いゲームなので、部屋を暗くするのがおすすめです。
+**ヘッドホンで遊んでください。** 音の方向がわからないと遊べません。
+暗いゲームなので、部屋も暗くするのがおすすめです。
 
 ### 動く環境
 
 - Windows：Windows 10 / 11（64bit）、DirectX 12 に対応した GPU
-- Android：Android 7.1 以上、64bit（ARM64）、Vulkan に対応した端末。横向きで遊びます
+- Android：Android 7.1 以上、64bit（ARM64）、Vulkan に対応した端末。横向き固定です
 
 ## 遊び方
 
@@ -64,7 +68,7 @@
 
 ## テスト版について
 
-- 捕まったあとに「今の死は理不尽でしたか？」と出ます。1（Y）で「はい」、2（N）で「いいえ」です。答えなくても 20 秒で先へ進みます（スマートフォンでは出ません）
+- 捕まったあとに「今の死は理不尽でしたか？」と出ます。1（または Y）で「はい」、2（または N）で「いいえ」です。答えなくても 20 秒で先へ進みます（スマートフォンでは出ません）
 - プレイの記録（懐中電灯を点けていた時間、捕まった場所など）が、遊んでいる PC の中だけに保存されます。どこにも送られません
   - Windows の保存先：`%USERPROFILE%\AppData\LocalLow\DefaultCompany\the-last-inmate\playtest.jsonl`
   - 感想と一緒にこのファイルを Issues に添付してもらえると、調整にとても役立ちます（添付は任意です）
@@ -116,7 +120,10 @@
 
 ## English
 
-**The Last Inmate** is a first-person real-time roguelike horror game (work in progress). Creatures with degenerated eyes hunt by sound alone. Every footstep and every noise spreads through the dark as a visible ripple, showing you where they are and telling them where you are. Escape the underground prison; if you are caught, leave one item behind for the next inmate.
+**The Last Inmate** is a first-person real-time roguelike horror game (work in progress). 
+Creatures with degenerated eyes hunt by sound alone. 
+Every footstep and every noise spreads through the dark as a visible ripple, showing you where they are and telling them where you are. 
+Escape the underground prison; if you are caught, leave one item behind for the next inmate.
 
 - Download the latest build from [Releases](https://github.com/unchunks/the-last-inmate-release/releases/latest): Windows (zip, 64-bit) or Android (apk, ARM64, Vulkan, Android 7.1+).
 - **Headphones are required.**
